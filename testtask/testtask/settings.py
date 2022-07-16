@@ -81,10 +81,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'TestTask',
-        'USER': 'postgres',
-        'PASSWORD': 'R0r7uick',
-        'HOST': 'fcserver.ru',
-        'PORT': '5432'
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': ''
     }
 }
 
